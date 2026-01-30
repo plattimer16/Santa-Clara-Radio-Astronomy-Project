@@ -1,4 +1,4 @@
-![Radio Telescope](RadioTelescope.png)
+![Radio Telescope]()
 
 
 # SCRAP - Santa Clara Radio Astronomy Project
