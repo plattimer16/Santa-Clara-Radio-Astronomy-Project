@@ -13,7 +13,7 @@ The system uses a closed-loop control approach: a Python program reads the curre
 
 ## Hardware Requirements
 
-![Rotation Module](RadioTelescope.png)
+![Rotation Module](module.jpg)
 
 - **Rotation Module** 
 - **Arduino-compatible microcontroller** (connected via USB, running Firmata firmware)
