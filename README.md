@@ -1,3 +1,6 @@
+![Alt text for the image](RadioTelescope.png)
+
+
 # SCRAP - Santa Clara Radio Astronomy Project
 
 SCRAP is a motorized radio telescope positioning system developed as a student-led project through the Electromagnetics Lab at Santa Clara University. The system provides precise angular positioning of a radio telescope dish via Arduino-controlled motor hardware and real-time angle sensor feedback.
