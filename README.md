@@ -1,4 +1,4 @@
-![Alt text for the image](RadioTelescope.png)
+![Radio Telescope](RadioTelescope.png)
 
 
 # SCRAP - Santa Clara Radio Astronomy Project
@@ -13,11 +13,12 @@ The system uses a closed-loop control approach: a Python program reads the curre
 
 ## Hardware Requirements
 
+![Rotation Module](RadioTelescope.png)
+
+- **Rotation Module** 
 - **Arduino-compatible microcontroller** (connected via USB, running Firmata firmware)
-- **DC motor with H-bridge driver** for bidirectional dish rotation
-- **Serial angle sensor / IMU** (9600 baud, provides 16-bit roll angle data)
-- **4 status LEDs** - Green (forward), Yellow (reverse), Red (stopped), Blue (data read)
-- **Speaker/buzzer** for audio feedback
+- **Serial angle sensor / IMU**
+
 
 ### Pin Assignments
 
